@@ -1,9 +1,9 @@
 {
-    "name": "bt/rocketchat-php",
+    "name": "dzmitrybitsiutski/rocketchat-php",
         "type": "library",
     "description": "A PHP interface to send incoming webhooks.",
     "require": {
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "^7.7"
     },
     "license": "MIT",
     "authors": [
